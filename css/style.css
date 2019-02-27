@@ -1,0 +1,35 @@
+/*
+	Theme Name: Temp-15
+	Theme URI: https://www.cpds2s.com/
+	Theme Author: batch 03|Morning
+*/
+.navbar-default{
+	background:#002060;
+	border-radius:0px; 
+	border:0px; 
+	margin-bottom:0px; 
+}
+ .navbar-default .menu-link{
+	 color:white; 
+ }
+ .jumbotron{
+	 margin-bottom:0px; height:250px; 
+	 background:none; 
+ }
+ 
+ 
+ .line-circle{
+	 margin-top:4px; 
+ }
+ .circle{
+	 width:10px; height:10px; background:#00B0F0; float:left; border-radius:50%; 
+ }
+ .line{
+		height:3px; background:#00B0F0; float:left; 
+		margin-top:4px; 
+}
+ .line-sm{ width:50%; }
+ .line-md{ width:60%; }
+ 
+ .btn,.form-control{ border-radius:0px; }
+ 
